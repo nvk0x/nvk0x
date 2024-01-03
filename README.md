@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Naveen Kumawat(nvk0x)</h1>
-<h3 align="center">A full time Bug-Bounty Hunter</h3>
+<h3 align="center">An full time Bug-Bounty Hunter</h3>
 
 <p align="left"> <a href="https://twitter.com/nvk0x" target="blank"><img src="https://img.shields.io/twitter/follow/nvk0x?logo=twitter&style=for-the-badge" alt="sureshdsk" /></a> </p>
 
